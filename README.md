@@ -6,6 +6,7 @@ Halaman ini adalah antarmuka jadwal kelas, myang enampilkan daftar mata kuliah s
 ![image](https://github.com/user-attachments/assets/9081ad15-e402-42ab-b4b6-85bb42197fe8)
 
 ## Profil
+
 ![image](https://github.com/user-attachments/assets/771d1063-e657-4610-b111-69e0c61da7b3)
 
 ## Daftar Kehadiran
