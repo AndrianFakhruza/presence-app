@@ -23,4 +23,6 @@ Pada halaman ini terdapat formulir login yang harus diisi oleh pengguna untuk me
 ![image](https://github.com/user-attachments/assets/885070f9-9540-4134-b0cc-80c7d9685951)
 
 ## SideBar
+Pada halaman ini terdapat Sidebar, Sidebar ini adalah menu navigasi dalam aplikasi absensi milik Politeknik Negeri Lhokseumawe, yang memudahkan pengguna untuk mengakses berbagai fitur utama, seperti Home untuk halaman utama, Profile untuk melihat atau mengelola data pengguna, Daftar Survei untuk mengisi atau memantau survei yang tersedia, serta Log Out untuk keluar dari aplikasi dengan aman.
+
 ![image](https://github.com/user-attachments/assets/28c28117-e352-4003-9086-b19370f565f6)
