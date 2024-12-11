@@ -1,6 +1,7 @@
 # Aplikasi Presensi
 ## Beranda
 Halaman ini adalah antarmuka jadwal kelas, myang enampilkan daftar mata kuliah semester ini, termasuk nama mata kuliah, program studi, jadwal (hari dan jam), serta label 3D yang menunjukkan kelas pengguna.
+
 ![image](https://github.com/user-attachments/assets/6c5f111b-2bca-4f87-aade-80e36585f9fd)
 ![image](https://github.com/user-attachments/assets/9081ad15-e402-42ab-b4b6-85bb42197fe8)
 
