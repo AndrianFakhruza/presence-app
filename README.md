@@ -6,6 +6,7 @@ Halaman ini adalah antarmuka jadwal kelas, yang menampilkan daftar mata kuliah s
 ![image](https://github.com/user-attachments/assets/9081ad15-e402-42ab-b4b6-85bb42197fe8)
 
 ## Profil
+Halaman Profile pada aplikasi Flutter ini menampilkan informasi profil pengguna, seperti nama, NIM, kelas, program studi, dan jurusan, yang disusun dalam kartu informasi. Halaman ini dilengkapi dengan AppBar dan drawer untuk navigasi, yang berisi menu ke halaman Home, Profile, Daftar Survei, dan Log Out. Selain itu, terdapat gambar ilustrasi profil dan tombol untuk mengganti password, menjadikannya pusat informasi pengguna dengan fitur navigasi ke halaman lain.
 
 ![image](https://github.com/user-attachments/assets/771d1063-e657-4610-b111-69e0c61da7b3)
 
