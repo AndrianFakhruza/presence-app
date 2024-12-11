@@ -15,6 +15,7 @@ Halaman daftar kehadiran menunjukkan status kehadiran setiap pertemuan dengan ko
 ![image](https://github.com/user-attachments/assets/4ccbbc94-ec19-4271-88ec-e9a872439035)
 
 ## Daftar Survey
+Pada halaman ini terdapat daftar survey yang harus dikerjakan terlebih dahulu oleh mahasiswa agar bisa melakukan absensi. Untuk tampilannya sendiri terdapat nama survey, tahun dilakukannya survey serta rentang waktu pengisian survey. Pada pojok kanan bawah terdapat status yang bisa menjadi indikator bahwa survey itu sudah selesai atau belum.
 ![image](https://github.com/user-attachments/assets/f75bbb81-0b83-4e26-960e-779b4ad37f52)
 
 ## Halaman Login
