@@ -19,6 +19,7 @@ Pada halaman ini terdapat daftar survey yang harus dikerjakan terlebih dahulu ol
 ![image](https://github.com/user-attachments/assets/f75bbb81-0b83-4e26-960e-779b4ad37f52)
 
 ## Halaman Login
+Pada halaman ini terdapat formulir login yang harus diisi oleh pengguna untuk mengakses aplikasi. Tampilannya terdiri dari kolom username dan password, masing-masing dilengkapi ikon untuk memperjelas fungsi kolom. Di bagian bawah formulir terdapat tombol "LOGIN" berwarna oranye yang digunakan untuk masuk ke dalam sistem. 
 ![image](https://github.com/user-attachments/assets/885070f9-9540-4134-b0cc-80c7d9685951)
 
 ## SideBar
